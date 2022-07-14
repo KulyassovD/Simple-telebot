@@ -1,4 +1,5 @@
 # Simple-telebot
-Зайти в main.py
-pip install pyTelegramBotAPI
-в терминале python main.py
+<br>Go to main.py
+<br>Install and activate virtual environment
+<br>pip install pyTelegramBotAPI
+<br> in terminal write the command "python main.py"
